@@ -1,0 +1,24 @@
+Example Patient 1
+
+fever
+cough
+fatigue
+
+
+Expected Result:
+
+Flu
+
+
+-----------------
+
+
+Example Patient 2
+
+cough
+breathing_problem
+
+
+Expected Result:
+
+Pneumonia
