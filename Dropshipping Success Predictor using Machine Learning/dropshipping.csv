@@ -1,0 +1,11 @@
+Price,ShippingDays,SupplierRating,SupplierExperience,CustomerReviews,RefundRate,MarketingBudget,DiscountPercent,Category,Platform,FreeShipping,ExpressDelivery,StockAvailable,ConversionRate,HighRating
+19.99,5,4.8,7,520,0.03,500,15,Electronics,Facebook,TRUE,TRUE,350,0.12,TRUE
+39.50,14,3.5,3,75,0.20,250,10,Fashion,Instagram,FALSE,FALSE,120,0.04,FALSE
+15.75,6,4.6,5,410,0.05,600,20,Beauty,TikTok,TRUE,TRUE,500,0.18,TRUE
+120.00,20,3.0,2,30,0.30,180,5,Home,Google,FALSE,FALSE,80,0.03,FALSE
+24.99,8,4.7,6,300,0.04,450,18,Sports,Facebook,TRUE,TRUE,250,0.14,TRUE
+69.99,12,4.1,4,110,0.12,320,12,Pets,Instagram,TRUE,FALSE,180,0.08,FALSE
+17.99,4,4.9,8,700,0.01,700,25,Beauty,TikTok,TRUE,TRUE,620,0.20,TRUE
+49.99,18,3.4,3,65,0.22,210,8,Electronics,Google,FALSE,FALSE,95,0.05,FALSE
+32.50,7,4.5,5,280,0.06,390,15,Fashion,Pinterest,TRUE,TRUE,290,0.11,TRUE
+89.99,16,3.6,2,45,0.24,260,6,Home,Facebook,FALSE,FALSE,100,0.04,FALSE
